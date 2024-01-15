@@ -44,7 +44,7 @@ namespace RNGMines.Patches
             }
 
             if (__instance.hasExploded)
-            {
+            { 
                 return;
             }
 
