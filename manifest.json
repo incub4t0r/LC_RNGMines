@@ -1,0 +1,7 @@
+{
+    "name": "RNGMines",
+    "version_number" : "1.0.0",
+    "website_url" : "https://github.com/incub4t0r/LC_RNGMines",
+    "description" : "Tired of stepping on mines? Feeling lucky? Let an RNG decide your fate!",
+    "dependencies": ["BepInEx-BepInExPack-5.4.2100"]
+}
